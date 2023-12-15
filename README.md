@@ -40,8 +40,6 @@ O Universe project é um desafio proposto no nivel 06 do bootcamp da Rocketseat 
 - Orientação a objetos;<br>
 - Classes e muito mais.
 
-Você pode visualizar o projeto através [DESSE LINK](https://gbenini.github.io/spa-universe-project/) 👀
-
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/g1jWHgQY7X8eialnk4mt2T/%5BDesafios-Explorer%5D-SPA-Universe-(Copy)?type=design&node-id=104-614&mode=design&t=O3EsnTf3n0nOJUYA-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
